@@ -1,0 +1,521 @@
+complaint_id,narrative,true_theme
+515,"For the third time, the condition of the bus shelter is consistently late or cancelled. I request an improved timetable.",public_transport
+496,I am writing to complain that the bus service on my route is not wheelchair accessible. I request an improved timetable.,public_transport
+23,"Despite several calls, the garbage bin has been skipped three times this month. This needs to be fixed urgently.",waste_collection
+453,"For the third time, the picnic area in the green belt is broken and unsafe for children. The park needs regular maintenance.",parks_recreation
+517,I am extremely frustrated that the shuttle to the station is broken and offers no shelter. The schedule must be honoured.,public_transport
+200,I have repeatedly raised that the water billing amount doubled without any notice. This dispute needs to be resolved.,billing_rates
+492,I wish to formally report that the bus service on my route skips my stop during peak hours. I request an improved timetable.,public_transport
+344,I am extremely frustrated that the constant barking from a property violates the local noise bylaw. I want an inspector to investigate.,noise_nuisance
+44,I have repeatedly raised that the household refuse service smells terrible and was never emptied. I want a refund on the service charge.,waste_collection
+252,I wish to formally report that the latest utility bill is clearly a billing error. This dispute needs to be resolved.,billing_rates
+488,"For the third time, the condition of the bus shelter skips my stop during peak hours. Commuters need dependable transport.",public_transport
+504,As a ratepayer I must report that the frequency of the morning buses is not wheelchair accessible. Commuters need dependable transport.,public_transport
+303,I have repeatedly raised that an unfair parking fine was applied without proper signage. I am appealing this penalty.,parking_traffic
+485,"Despite several calls, the accessibility of the bus stop is consistently late or cancelled. Please restore a reliable service.",public_transport
+374,As a ratepayer I must report that the constant barking from a property starts before sunrise every day. Please enforce the noise regulations.,noise_nuisance
+80,"For the third time, the cracked pavement outside my house makes the area dangerous at night. The street lighting should be restored.",roads_lighting
+422,I have repeatedly raised that the walking trail behind the estate has vandalised and dangerous equipment. The park needs regular maintenance.,parks_recreation
+367,I am extremely frustrated that the early morning roadworks starts before sunrise every day. This nuisance needs to stop.,noise_nuisance
+475,It is unacceptable that the timetable at the local stop skips my stop during peak hours. The schedule must be honoured.,public_transport
+92,As a ratepayer I must report that the broken street light on the corner has caused damage to my car tyre. This is a safety risk and must be addressed.,roads_lighting
+65,I am writing to complain that the wheelie bin is overflowing and attracting rats. The collection schedule must be reliable.,waste_collection
+454,"For the third time, the picnic area in the green belt has not been maintained in months. Families deserve a safe space.",parks_recreation
+126,As a ratepayer I must report that the faded road markings near the school has been reported but never repaired. I request urgent road maintenance.,roads_lighting
+164,I have repeatedly raised that the water supply to my property appears discoloured and unsafe. The water service must be restored.,water_drainage
+183,As a ratepayer I must report that the contaminated tap water left us without water all weekend. The water service must be restored.,water_drainage
+174,It is unacceptable that the constant leak near the meter is wasting thousands of litres. The water service must be restored.,water_drainage
+150,I am extremely frustrated that a burst pipe on the sidewalk has been interrupted for several days. The water service must be restored.,water_drainage
+131,"For the third time, the constant leak near the meter left us without water all weekend. This needs immediate attention.",water_drainage
+111,I have repeatedly raised that the cracked pavement outside my house has been reported but never repaired. Please dispatch a repair team.,roads_lighting
+487,I am extremely frustrated that the timetable at the local stop skips my stop during peak hours. The schedule must be honoured.,public_transport
+218,"Despite several calls, the water billing amount is far higher than usual with no explanation. I want an itemised statement.",billing_rates
+100,As a ratepayer I must report that a deep pothole on Main Road has been reported but never repaired. I request urgent road maintenance.,roads_lighting
+293,As a ratepayer I must report that the towing of my legally parked car are inconsistent and poorly marked. I am appealing this penalty.,parking_traffic
+67,It is unacceptable that the broken street light on the corner is a serious trip hazard for pedestrians. I request urgent road maintenance.,roads_lighting
+437,As a ratepayer I must report that the public swimming pool has vandalised and dangerous equipment. I request restoration of the amenity.,parks_recreation
+238,I have repeatedly raised that the water billing amount shows a payment that was never credited. I want an itemised statement.,billing_rates
+144,I am extremely frustrated that a burst pipe on the sidewalk is flooding the lower street. This needs immediate attention.,water_drainage
+491,"Despite several calls, the accessibility of the bus stop no longer matches the posted schedule. The schedule must be honoured.",public_transport
+501,"For the third time, the accessibility of the bus stop skips my stop during peak hours. Please restore a reliable service.",public_transport
+434,I am writing to complain that the public swimming pool is covered in litter and overgrown. Families deserve a safe space.,parks_recreation
+38,I am writing to complain that the household refuse service is overflowing and attracting rats. The collection schedule must be reliable.,waste_collection
+162,"Despite several calls, the low water pressure in the area appears discoloured and unsafe. This needs immediate attention.",water_drainage
+241,I am extremely frustrated that the property rates invoice doubled without any notice. This dispute needs to be resolved.,billing_rates
+394,I wish to formally report that the walking trail behind the estate is closed without any explanation. Please repair and clean the facility.,parks_recreation
+414,I am extremely frustrated that the walking trail behind the estate is broken and unsafe for children. Please repair and clean the facility.,parks_recreation
+457,"Despite several calls, the shuttle to the station is broken and offers no shelter. I request an improved timetable.",public_transport
+70,It is unacceptable that a deep pothole on Main Road floods every time it rains. Please dispatch a repair team.,roads_lighting
+441,"Despite several calls, the community sports field is broken and unsafe for children. Please repair and clean the facility.",parks_recreation
+415,I am writing to complain that the community sports field is covered in litter and overgrown. The park needs regular maintenance.,parks_recreation
+409,"For the third time, the public park near the river has vandalised and dangerous equipment. Please repair and clean the facility.",parks_recreation
+24,I have repeatedly raised that the weekly rubbish collection was left scattered across the street. The collection schedule must be reliable.,waste_collection
+14,I am writing to complain that the weekly rubbish collection has been skipped three times this month. This needs to be fixed urgently.,waste_collection
+333,As a ratepayer I must report that the early morning roadworks starts before sunrise every day. Please enforce the noise regulations.,noise_nuisance
+199,I wish to formally report that the property rates invoice is far higher than usual with no explanation. This dispute needs to be resolved.,billing_rates
+393,It is unacceptable that the public park near the river is broken and unsafe for children. Families deserve a safe space.,parks_recreation
+73,I am writing to complain that the damaged kerb on Oak Avenue has caused damage to my car tyre. The street lighting should be restored.,roads_lighting
+339,As a ratepayer I must report that the constant barking from a property has been reported repeatedly with no action. The bylaw must be enforced.,noise_nuisance
+400,"Despite several calls, the picnic area in the green belt is covered in litter and overgrown. Families deserve a safe space.",parks_recreation
+281,"For the third time, the parking permit system ignores residents with permits. Please cancel the unjust fine.",parking_traffic
+302,I have repeatedly raised that the parking permit system caused me to be fined wrongly. I am appealing this penalty.,parking_traffic
+228,"For the third time, the water billing amount doubled without any notice. This dispute needs to be resolved.",billing_rates
+247,I am extremely frustrated that my municipal account contains charges I never incurred. The overcharge must be reversed.,billing_rates
+451,"For the third time, the community sports field has vandalised and dangerous equipment. Please repair and clean the facility.",parks_recreation
+232,It is unacceptable that the latest utility bill shows a payment that was never credited. Please correct the account and refund me.,billing_rates
+34,"Despite several calls, the wheelie bin has been skipped three times this month. The collection schedule must be reliable.",waste_collection
+298,"For the third time, the parking permit system ignores residents with permits. Residents need fair parking access.",parking_traffic
+211,It is unacceptable that the latest utility bill contains charges I never incurred. Please correct the account and refund me.,billing_rates
+407,I wish to formally report that the public park near the river has vandalised and dangerous equipment. Families deserve a safe space.,parks_recreation
+224,"Despite several calls, the service fee I was charged doubled without any notice. Please correct the account and refund me.",billing_rates
+151,As a ratepayer I must report that the sewage backing up in the drain is wasting thousands of litres. This needs immediate attention.,water_drainage
+284,"Despite several calls, the towing of my legally parked car issued me a penalty I do not deserve. The signage must be made clear.",parking_traffic
+360,I wish to formally report that the constant barking from a property violates the local noise bylaw. The bylaw must be enforced.,noise_nuisance
+404,"For the third time, the walking trail behind the estate is broken and unsafe for children. Please repair and clean the facility.",parks_recreation
+51,I wish to formally report that the household refuse service has been skipped three times this month. This needs to be fixed urgently.,waste_collection
+506,"For the third time, the shuttle to the station leaves commuters stranded for hours. Commuters need dependable transport.",public_transport
+124,I am writing to complain that the broken street light on the corner has been reported but never repaired. Please dispatch a repair team.,roads_lighting
+486,It is unacceptable that the accessibility of the bus stop is not wheelchair accessible. I request an improved timetable.,public_transport
+145,I am extremely frustrated that the water supply to my property smells foul and is unsanitary. The water service must be restored.,water_drainage
+260,It is unacceptable that the property rates invoice shows a payment that was never credited. This dispute needs to be resolved.,billing_rates
+88,"For the third time, the broken street light on the corner needs resurfacing immediately. This is a safety risk and must be addressed.",roads_lighting
+2,I have repeatedly raised that our recycling collection has been skipped three times this month. Please send a crew to empty it.,waste_collection
+413,I am extremely frustrated that the public swimming pool is covered in litter and overgrown. I request restoration of the amenity.,parks_recreation
+480,It is unacceptable that the condition of the bus shelter leaves commuters stranded for hours. Commuters need dependable transport.,public_transport
+483,I am writing to complain that the accessibility of the bus stop is broken and offers no shelter. Commuters need dependable transport.,public_transport
+323,"Despite several calls, the new traffic restrictions makes it impossible to park near my home. The signage must be made clear.",parking_traffic
+28,I have repeatedly raised that our recycling collection keeps getting missed by the truck. The collection schedule must be reliable.,waste_collection
+297,"For the third time, the parking permit system are inconsistent and poorly marked. Residents need fair parking access.",parking_traffic
+86,I am extremely frustrated that the cracked pavement outside my house has caused damage to my car tyre. Please dispatch a repair team.,roads_lighting
+76,"Despite several calls, the faded road markings near the school is a serious trip hazard for pedestrians. Please dispatch a repair team.",roads_lighting
+338,I wish to formally report that the illegal dumping on the empty lot starts before sunrise every day. I want an inspector to investigate.,noise_nuisance
+10,I wish to formally report that the green waste pickup is overflowing and attracting rats. This needs to be fixed urgently.,waste_collection
+202,"Despite several calls, the water billing amount shows a payment that was never credited. Please correct the account and refund me.",billing_rates
+94,I have repeatedly raised that the blocked storm drain on the road has caused damage to my car tyre. This is a safety risk and must be addressed.,roads_lighting
+509,"For the third time, the accessibility of the bus stop leaves commuters stranded for hours. I request an improved timetable.",public_transport
+87,As a ratepayer I must report that the cracked pavement outside my house has caused damage to my car tyre. Please dispatch a repair team.,roads_lighting
+358,"For the third time, construction noise next door has been reported repeatedly with no action. Please enforce the noise regulations.",noise_nuisance
+215,I am extremely frustrated that my municipal account shows a payment that was never credited. Please correct the account and refund me.,billing_rates
+7,I am writing to complain that our recycling collection smells terrible and was never emptied. The collection schedule must be reliable.,waste_collection
+25,I am extremely frustrated that our recycling collection is overflowing and attracting rats. I want a refund on the service charge.,waste_collection
+93,"For the third time, a deep pothole on Main Road is a serious trip hazard for pedestrians. I request urgent road maintenance.",roads_lighting
+295,As a ratepayer I must report that the new traffic restrictions issued me a penalty I do not deserve. Residents need fair parking access.,parking_traffic
+417,"Despite several calls, the local playground equipment is broken and unsafe for children. The park needs regular maintenance.",parks_recreation
+130,I wish to formally report that the faded road markings near the school makes the area dangerous at night. The street lighting should be restored.,roads_lighting
+205,I have repeatedly raised that the property rates invoice shows a payment that was never credited. Please correct the account and refund me.,billing_rates
+11,I am writing to complain that the weekly rubbish collection was left scattered across the street. Please send a crew to empty it.,waste_collection
+315,I wish to formally report that the parking permit system was applied without proper signage. I am appealing this penalty.,parking_traffic
+43,It is unacceptable that the green waste pickup keeps getting missed by the truck. The collection schedule must be reliable.,waste_collection
+406,I am extremely frustrated that the walking trail behind the estate is covered in litter and overgrown. I request restoration of the amenity.,parks_recreation
+207,I am extremely frustrated that the latest utility bill is far higher than usual with no explanation. I want an itemised statement.,billing_rates
+277,It is unacceptable that the parking permit system was applied without proper signage. Residents need fair parking access.,parking_traffic
+50,I have repeatedly raised that the garbage bin was not collected again this week. This needs to be fixed urgently.,waste_collection
+442,"For the third time, the public swimming pool has not been maintained in months. Families deserve a safe space.",parks_recreation
+261,It is unacceptable that an unfair parking fine makes it impossible to park near my home. Please cancel the unjust fine.,parking_traffic
+117,As a ratepayer I must report that the damaged kerb on Oak Avenue has caused damage to my car tyre. This is a safety risk and must be addressed.,roads_lighting
+54,I have repeatedly raised that the garbage bin was not collected again this week. The collection schedule must be reliable.,waste_collection
+433,As a ratepayer I must report that the walking trail behind the estate has vandalised and dangerous equipment. Families deserve a safe space.,parks_recreation
+326,It is unacceptable that the early morning roadworks continues well past permitted hours. The bylaw must be enforced.,noise_nuisance
+342,I am writing to complain that the illegal dumping on the empty lot continues well past permitted hours. The bylaw must be enforced.,noise_nuisance
+249,I am writing to complain that the service fee I was charged contains charges I never incurred. This dispute needs to be resolved.,billing_rates
+159,I have repeatedly raised that the constant leak near the meter appears discoloured and unsafe. The water service must be restored.,water_drainage
+275,It is unacceptable that the confusing parking signs downtown issued me a penalty I do not deserve. Please cancel the unjust fine.,parking_traffic
+428,It is unacceptable that the local playground equipment has not been maintained in months. Families deserve a safe space.,parks_recreation
+503,"For the third time, the frequency of the morning buses skips my stop during peak hours. Please restore a reliable service.",public_transport
+142,As a ratepayer I must report that the constant leak near the meter has been interrupted for several days. The water service must be restored.,water_drainage
+133,I am extremely frustrated that the sewage backing up in the drain is wasting thousands of litres. The water service must be restored.,water_drainage
+198,It is unacceptable that the property rates invoice shows a payment that was never credited. The overcharge must be reversed.,billing_rates
+520,I am writing to complain that the frequency of the morning buses is broken and offers no shelter. Please restore a reliable service.,public_transport
+455,I have repeatedly raised that the local playground equipment is broken and unsafe for children. The park needs regular maintenance.,parks_recreation
+122,I wish to formally report that the broken street light on the corner needs resurfacing immediately. This is a safety risk and must be addressed.,roads_lighting
+48,I am writing to complain that the household refuse service keeps getting missed by the truck. I want a refund on the service charge.,waste_collection
+220,"Despite several calls, the property rates invoice shows a payment that was never credited. This dispute needs to be resolved.",billing_rates
+385,"For the third time, construction noise next door starts before sunrise every day. I want an inspector to investigate.",noise_nuisance
+39,I am writing to complain that the garbage bin is overflowing and attracting rats. This needs to be fixed urgently.,waste_collection
+265,"Despite several calls, the confusing parking signs downtown issued me a penalty I do not deserve. The signage must be made clear.",parking_traffic
+461,I wish to formally report that the condition of the bus shelter skips my stop during peak hours. Commuters need dependable transport.,public_transport
+157,I am writing to complain that the low water pressure in the area is wasting thousands of litres. I demand the leak be stopped.,water_drainage
+135,I am extremely frustrated that the water supply to my property appears discoloured and unsafe. The water service must be restored.,water_drainage
+444,It is unacceptable that the public swimming pool has vandalised and dangerous equipment. Families deserve a safe space.,parks_recreation
+190,"For the third time, a burst pipe on the sidewalk is flooding the lower street. Please send maintenance to repair it.",water_drainage
+171,"For the third time, a burst pipe on the sidewalk has been interrupted for several days. The water service must be restored.",water_drainage
+285,"For the third time, the confusing parking signs downtown are inconsistent and poorly marked. Residents need fair parking access.",parking_traffic
+427,I wish to formally report that the walking trail behind the estate lacks basic lighting and security. Families deserve a safe space.,parks_recreation
+477,"Despite several calls, the timetable at the local stop is broken and offers no shelter. Commuters need dependable transport.",public_transport
+469,As a ratepayer I must report that the accessibility of the bus stop leaves commuters stranded for hours. Please restore a reliable service.,public_transport
+306,It is unacceptable that the parking permit system was applied without proper signage. I am appealing this penalty.,parking_traffic
+188,"Despite several calls, the contaminated tap water left us without water all weekend. The water service must be restored.",water_drainage
+201,I am extremely frustrated that the latest utility bill shows a payment that was never credited. This dispute needs to be resolved.,billing_rates
+268,As a ratepayer I must report that the confusing parking signs downtown was applied without proper signage. The signage must be made clear.,parking_traffic
+57,I am writing to complain that the wheelie bin smells terrible and was never emptied. This needs to be fixed urgently.,waste_collection
+311,I am extremely frustrated that the towing of my legally parked car makes it impossible to park near my home. Please cancel the unjust fine.,parking_traffic
+37,I have repeatedly raised that our recycling collection is overflowing and attracting rats. I want a refund on the service charge.,waste_collection
+78,I wish to formally report that the damaged kerb on Oak Avenue makes the area dangerous at night. This is a safety risk and must be addressed.,roads_lighting
+300,I have repeatedly raised that the confusing parking signs downtown are inconsistent and poorly marked. Please cancel the unjust fine.,parking_traffic
+83,"Despite several calls, a deep pothole on Main Road has caused damage to my car tyre. I request urgent road maintenance.",roads_lighting
+459,I have repeatedly raised that the bus service on my route no longer matches the posted schedule. Please restore a reliable service.,public_transport
+181,"Despite several calls, the contaminated tap water left us without water all weekend. The water service must be restored.",water_drainage
+304,I am writing to complain that the new traffic restrictions makes it impossible to park near my home. I am appealing this penalty.,parking_traffic
+387,It is unacceptable that the early morning roadworks is creating a public health hazard. Please enforce the noise regulations.,noise_nuisance
+226,"For the third time, my municipal account doubled without any notice. Please correct the account and refund me.",billing_rates
+439,"For the third time, the walking trail behind the estate has not been maintained in months. Please repair and clean the facility.",parks_recreation
+129,I am extremely frustrated that a deep pothole on Main Road floods every time it rains. I request urgent road maintenance.,roads_lighting
+36,It is unacceptable that the household refuse service was not collected again this week. This needs to be fixed urgently.,waste_collection
+15,I wish to formally report that our recycling collection was not collected again this week. The collection schedule must be reliable.,waste_collection
+508,I am writing to complain that the bus service on my route is consistently late or cancelled. The schedule must be honoured.,public_transport
+216,As a ratepayer I must report that the service fee I was charged was estimated incorrectly for months. The overcharge must be reversed.,billing_rates
+356,As a ratepayer I must report that the loud parties in the neighbourhood continues well past permitted hours. This nuisance needs to stop.,noise_nuisance
+296,I have repeatedly raised that the lack of disabled parking bays ignores residents with permits. I am appealing this penalty.,parking_traffic
+388,"Despite several calls, the early morning roadworks has been reported repeatedly with no action. The bylaw must be enforced.",noise_nuisance
+431,I am writing to complain that the community sports field is covered in litter and overgrown. Please repair and clean the facility.,parks_recreation
+449,I am writing to complain that the public park near the river is closed without any explanation. I request restoration of the amenity.,parks_recreation
+13,"For the third time, the household refuse service has been skipped three times this month. Please send a crew to empty it.",waste_collection
+154,I am writing to complain that the contaminated tap water left us without water all weekend. Please send maintenance to repair it.,water_drainage
+222,As a ratepayer I must report that the latest utility bill was estimated incorrectly for months. Please correct the account and refund me.,billing_rates
+184,"For the third time, the contaminated tap water smells foul and is unsanitary. The water service must be restored.",water_drainage
+365,I have repeatedly raised that the late-night disturbance from the bar starts before sunrise every day. I want an inspector to investigate.,noise_nuisance
+440,As a ratepayer I must report that the local playground equipment has vandalised and dangerous equipment. The park needs regular maintenance.,parks_recreation
+511,"For the third time, the frequency of the morning buses skips my stop during peak hours. The schedule must be honoured.",public_transport
+53,I am extremely frustrated that our recycling collection was left scattered across the street. The collection schedule must be reliable.,waste_collection
+62,I am writing to complain that the garbage bin has been skipped three times this month. I want a refund on the service charge.,waste_collection
+505,I wish to formally report that the timetable at the local stop is consistently late or cancelled. I request an improved timetable.,public_transport
+256,As a ratepayer I must report that my municipal account is clearly a billing error. Please correct the account and refund me.,billing_rates
+225,I am extremely frustrated that my municipal account was estimated incorrectly for months. The overcharge must be reversed.,billing_rates
+217,I am writing to complain that my municipal account contains charges I never incurred. Please correct the account and refund me.,billing_rates
+346,"Despite several calls, the illegal dumping on the empty lot is creating a public health hazard. This nuisance needs to stop.",noise_nuisance
+263,I am extremely frustrated that the towing of my legally parked car makes it impossible to park near my home. I am appealing this penalty.,parking_traffic
+255,"Despite several calls, the property rates invoice is clearly a billing error. Please correct the account and refund me.",billing_rates
+392,"For the third time, the picnic area in the green belt is covered in litter and overgrown. The park needs regular maintenance.",parks_recreation
+510,It is unacceptable that the frequency of the morning buses leaves commuters stranded for hours. The schedule must be honoured.,public_transport
+512,As a ratepayer I must report that the frequency of the morning buses is broken and offers no shelter. Commuters need dependable transport.,public_transport
+243,I am extremely frustrated that the latest utility bill contains charges I never incurred. I want an itemised statement.,billing_rates
+118,"Despite several calls, the broken street light on the corner has been reported but never repaired. This is a safety risk and must be addressed.",roads_lighting
+64,As a ratepayer I must report that the garbage bin has been skipped three times this month. The collection schedule must be reliable.,waste_collection
+59,I am extremely frustrated that our recycling collection was left scattered across the street. I want a refund on the service charge.,waste_collection
+223,It is unacceptable that the latest utility bill doubled without any notice. This dispute needs to be resolved.,billing_rates
+317,As a ratepayer I must report that the towing of my legally parked car caused me to be fined wrongly. Residents need fair parking access.,parking_traffic
+391,"For the third time, the community sports field is covered in litter and overgrown. The park needs regular maintenance.",parks_recreation
+351,As a ratepayer I must report that the late-night disturbance from the bar makes it impossible to sleep. This nuisance needs to stop.,noise_nuisance
+310,I am extremely frustrated that the new traffic restrictions caused me to be fined wrongly. Please cancel the unjust fine.,parking_traffic
+341,I wish to formally report that construction noise next door makes it impossible to sleep. I want an inspector to investigate.,noise_nuisance
+379,I am writing to complain that the late-night disturbance from the bar is creating a public health hazard. This nuisance needs to stop.,noise_nuisance
+378,I wish to formally report that the early morning roadworks is creating a public health hazard. I want an inspector to investigate.,noise_nuisance
+518,I am writing to complain that the frequency of the morning buses is not wheelchair accessible. The schedule must be honoured.,public_transport
+194,I am extremely frustrated that the constant leak near the meter smells foul and is unsanitary. The water service must be restored.,water_drainage
+250,It is unacceptable that my municipal account doubled without any notice. The overcharge must be reversed.,billing_rates
+278,As a ratepayer I must report that an unfair parking fine makes it impossible to park near my home. I am appealing this penalty.,parking_traffic
+283,"For the third time, the parking permit system ignores residents with permits. Please cancel the unjust fine.",parking_traffic
+33,"Despite several calls, the weekly rubbish collection is overflowing and attracting rats. Please send a crew to empty it.",waste_collection
+474,I wish to formally report that the frequency of the morning buses no longer matches the posted schedule. Commuters need dependable transport.,public_transport
+101,I have repeatedly raised that the faded road markings near the school is a serious trip hazard for pedestrians. This is a safety risk and must be addressed.,roads_lighting
+138,As a ratepayer I must report that the contaminated tap water is wasting thousands of litres. I demand the leak be stopped.,water_drainage
+382,As a ratepayer I must report that the loud parties in the neighbourhood is creating a public health hazard. Please enforce the noise regulations.,noise_nuisance
+516,"Despite several calls, the condition of the bus shelter is broken and offers no shelter. Please restore a reliable service.",public_transport
+337,I wish to formally report that the late-night disturbance from the bar is creating a public health hazard. Please enforce the noise regulations.,noise_nuisance
+410,"For the third time, the public park near the river is broken and unsafe for children. Families deserve a safe space.",parks_recreation
+230,"Despite several calls, the electricity charge on my statement is clearly a billing error. This dispute needs to be resolved.",billing_rates
+352,I have repeatedly raised that the early morning roadworks starts before sunrise every day. The bylaw must be enforced.,noise_nuisance
+348,I am writing to complain that construction noise next door makes it impossible to sleep. The bylaw must be enforced.,noise_nuisance
+175,"Despite several calls, the sewage backing up in the drain is flooding the lower street. The water service must be restored.",water_drainage
+21,I have repeatedly raised that the weekly rubbish collection is overflowing and attracting rats. Please send a crew to empty it.,waste_collection
+221,I am extremely frustrated that my municipal account doubled without any notice. The overcharge must be reversed.,billing_rates
+97,I am writing to complain that the broken street light on the corner needs resurfacing immediately. This is a safety risk and must be addressed.,roads_lighting
+115,It is unacceptable that the broken street light on the corner has been reported but never repaired. The street lighting should be restored.,roads_lighting
+98,As a ratepayer I must report that the blocked storm drain on the road needs resurfacing immediately. I request urgent road maintenance.,roads_lighting
+411,I wish to formally report that the public swimming pool lacks basic lighting and security. Families deserve a safe space.,parks_recreation
+108,"For the third time, the faded road markings near the school floods every time it rains. Please dispatch a repair team.",roads_lighting
+324,I wish to formally report that the parking permit system issued me a penalty I do not deserve. Please cancel the unjust fine.,parking_traffic
+187,I have repeatedly raised that a burst pipe on the sidewalk appears discoloured and unsafe. This needs immediate attention.,water_drainage
+386,"For the third time, the loud parties in the neighbourhood is creating a public health hazard. This nuisance needs to stop.",noise_nuisance
+231,I wish to formally report that my municipal account is clearly a billing error. I want an itemised statement.,billing_rates
+35,I am writing to complain that the weekly rubbish collection smells terrible and was never emptied. This needs to be fixed urgently.,waste_collection
+320,As a ratepayer I must report that the lack of disabled parking bays makes it impossible to park near my home. The signage must be made clear.,parking_traffic
+499,I am extremely frustrated that the shuttle to the station leaves commuters stranded for hours. Please restore a reliable service.,public_transport
+105,"For the third time, a deep pothole on Main Road has caused damage to my car tyre. This is a safety risk and must be addressed.",roads_lighting
+74,"For the third time, the cracked pavement outside my house makes the area dangerous at night. This is a safety risk and must be addressed.",roads_lighting
+9,"For the third time, the garbage bin was not collected again this week. The collection schedule must be reliable.",waste_collection
+363,"For the third time, the loud parties in the neighbourhood is creating a public health hazard. I want an inspector to investigate.",noise_nuisance
+18,"Despite several calls, the weekly rubbish collection smells terrible and was never emptied. Please send a crew to empty it.",waste_collection
+345,I wish to formally report that the loud parties in the neighbourhood has been reported repeatedly with no action. Please enforce the noise regulations.,noise_nuisance
+16,"Despite several calls, the wheelie bin smells terrible and was never emptied. This needs to be fixed urgently.",waste_collection
+514,"Despite several calls, the accessibility of the bus stop is consistently late or cancelled. Commuters need dependable transport.",public_transport
+17,It is unacceptable that the green waste pickup is overflowing and attracting rats. I want a refund on the service charge.,waste_collection
+180,I have repeatedly raised that the constant leak near the meter appears discoloured and unsafe. I demand the leak be stopped.,water_drainage
+489,As a ratepayer I must report that the timetable at the local stop skips my stop during peak hours. Please restore a reliable service.,public_transport
+109,As a ratepayer I must report that the damaged kerb on Oak Avenue makes the area dangerous at night. This is a safety risk and must be addressed.,roads_lighting
+12,As a ratepayer I must report that the garbage bin keeps getting missed by the truck. This needs to be fixed urgently.,waste_collection
+372,I am extremely frustrated that the constant barking from a property continues well past permitted hours. Please enforce the noise regulations.,noise_nuisance
+402,As a ratepayer I must report that the public park near the river is covered in litter and overgrown. The park needs regular maintenance.,parks_recreation
+418,As a ratepayer I must report that the public swimming pool is closed without any explanation. I request restoration of the amenity.,parks_recreation
+191,It is unacceptable that the sewage backing up in the drain has been interrupted for several days. Please send maintenance to repair it.,water_drainage
+1,I wish to formally report that the garbage bin smells terrible and was never emptied. This needs to be fixed urgently.,waste_collection
+210,I have repeatedly raised that the electricity charge on my statement is far higher than usual with no explanation. I want an itemised statement.,billing_rates
+66,"Despite several calls, the faded road markings near the school needs resurfacing immediately. The street lighting should be restored.",roads_lighting
+102,I have repeatedly raised that the broken street light on the corner has caused damage to my car tyre. I request urgent road maintenance.,roads_lighting
+312,"Despite several calls, the lack of disabled parking bays are inconsistent and poorly marked. Please cancel the unjust fine.",parking_traffic
+484,"Despite several calls, the accessibility of the bus stop no longer matches the posted schedule. I request an improved timetable.",public_transport
+305,"Despite several calls, an unfair parking fine issued me a penalty I do not deserve. Please cancel the unjust fine.",parking_traffic
+237,I am extremely frustrated that the water billing amount contains charges I never incurred. This dispute needs to be resolved.,billing_rates
+30,It is unacceptable that the weekly rubbish collection was left scattered across the street. Please send a crew to empty it.,waste_collection
+234,I am extremely frustrated that my municipal account is clearly a billing error. I want an itemised statement.,billing_rates
+290,It is unacceptable that the parking permit system issued me a penalty I do not deserve. Residents need fair parking access.,parking_traffic
+68,I am writing to complain that the damaged kerb on Oak Avenue needs resurfacing immediately. Please dispatch a repair team.,roads_lighting
+292,It is unacceptable that the lack of disabled parking bays ignores residents with permits. Residents need fair parking access.,parking_traffic
+29,I wish to formally report that the garbage bin was not collected again this week. I want a refund on the service charge.,waste_collection
+289,"Despite several calls, the confusing parking signs downtown ignores residents with permits. Please cancel the unjust fine.",parking_traffic
+262,As a ratepayer I must report that the towing of my legally parked car are inconsistent and poorly marked. I am appealing this penalty.,parking_traffic
+47,I have repeatedly raised that our recycling collection was not collected again this week. This needs to be fixed urgently.,waste_collection
+458,I have repeatedly raised that the frequency of the morning buses skips my stop during peak hours. I request an improved timetable.,public_transport
+106,It is unacceptable that the damaged kerb on Oak Avenue is a serious trip hazard for pedestrians. Please dispatch a repair team.,roads_lighting
+60,"Despite several calls, the wheelie bin has been skipped three times this month. Please send a crew to empty it.",waste_collection
+432,I have repeatedly raised that the local playground equipment has not been maintained in months. Families deserve a safe space.,parks_recreation
+267,I wish to formally report that the lack of disabled parking bays was applied without proper signage. Residents need fair parking access.,parking_traffic
+384,As a ratepayer I must report that the loud parties in the neighbourhood violates the local noise bylaw. I want an inspector to investigate.,noise_nuisance
+85,"For the third time, the broken street light on the corner needs resurfacing immediately. This is a safety risk and must be addressed.",roads_lighting
+77,I am writing to complain that the faded road markings near the school floods every time it rains. Please dispatch a repair team.,roads_lighting
+426,"For the third time, the local playground equipment has not been maintained in months. The park needs regular maintenance.",parks_recreation
+353,I wish to formally report that the constant barking from a property is creating a public health hazard. Please enforce the noise regulations.,noise_nuisance
+308,I am writing to complain that an unfair parking fine are inconsistent and poorly marked. The signage must be made clear.,parking_traffic
+399,I am extremely frustrated that the public park near the river is closed without any explanation. The park needs regular maintenance.,parks_recreation
+40,I have repeatedly raised that the garbage bin has been skipped three times this month. Please send a crew to empty it.,waste_collection
+186,I have repeatedly raised that the sewage backing up in the drain has been interrupted for several days. I demand the leak be stopped.,water_drainage
+271,"Despite several calls, the confusing parking signs downtown was applied without proper signage. Please cancel the unjust fine.",parking_traffic
+318,I am extremely frustrated that the towing of my legally parked car caused me to be fined wrongly. The signage must be made clear.,parking_traffic
+493,As a ratepayer I must report that the timetable at the local stop no longer matches the posted schedule. Commuters need dependable transport.,public_transport
+42,It is unacceptable that our recycling collection smells terrible and was never emptied. The collection schedule must be reliable.,waste_collection
+470,It is unacceptable that the shuttle to the station is broken and offers no shelter. Please restore a reliable service.,public_transport
+112,"For the third time, the damaged kerb on Oak Avenue is a serious trip hazard for pedestrians. Please dispatch a repair team.",roads_lighting
+425,As a ratepayer I must report that the community sports field has not been maintained in months. Please repair and clean the facility.,parks_recreation
+401,I am extremely frustrated that the picnic area in the green belt has not been maintained in months. I request restoration of the amenity.,parks_recreation
+398,I have repeatedly raised that the picnic area in the green belt is closed without any explanation. Families deserve a safe space.,parks_recreation
+213,I am extremely frustrated that my municipal account doubled without any notice. The overcharge must be reversed.,billing_rates
+192,"Despite several calls, the contaminated tap water is wasting thousands of litres. This needs immediate attention.",water_drainage
+359,I have repeatedly raised that the constant barking from a property starts before sunrise every day. This nuisance needs to stop.,noise_nuisance
+79,It is unacceptable that the cracked pavement outside my house has caused damage to my car tyre. I request urgent road maintenance.,roads_lighting
+325,As a ratepayer I must report that the parking permit system are inconsistent and poorly marked. Residents need fair parking access.,parking_traffic
+460,I am extremely frustrated that the timetable at the local stop is broken and offers no shelter. I request an improved timetable.,public_transport
+113,"Despite several calls, the damaged kerb on Oak Avenue is a serious trip hazard for pedestrians. The street lighting should be restored.",roads_lighting
+114,"For the third time, the faded road markings near the school needs resurfacing immediately. This is a safety risk and must be addressed.",roads_lighting
+189,I wish to formally report that a burst pipe on the sidewalk is flooding the lower street. I demand the leak be stopped.,water_drainage
+495,I am extremely frustrated that the accessibility of the bus stop skips my stop during peak hours. I request an improved timetable.,public_transport
+307,"For the third time, the parking permit system makes it impossible to park near my home. Residents need fair parking access.",parking_traffic
+160,"For the third time, a burst pipe on the sidewalk left us without water all weekend. Please send maintenance to repair it.",water_drainage
+258,I am writing to complain that my municipal account was estimated incorrectly for months. Please correct the account and refund me.,billing_rates
+381,"For the third time, the loud parties in the neighbourhood violates the local noise bylaw. This nuisance needs to stop.",noise_nuisance
+82,"Despite several calls, the blocked storm drain on the road has caused damage to my car tyre. I request urgent road maintenance.",roads_lighting
+158,It is unacceptable that the constant leak near the meter appears discoloured and unsafe. Please send maintenance to repair it.,water_drainage
+239,I wish to formally report that the latest utility bill doubled without any notice. The overcharge must be reversed.,billing_rates
+61,I am extremely frustrated that the household refuse service was not collected again this week. Please send a crew to empty it.,waste_collection
+502,As a ratepayer I must report that the bus service on my route leaves commuters stranded for hours. The schedule must be honoured.,public_transport
+319,I wish to formally report that the confusing parking signs downtown issued me a penalty I do not deserve. I am appealing this penalty.,parking_traffic
+185,"Despite several calls, the sewage backing up in the drain is wasting thousands of litres. Please send maintenance to repair it.",water_drainage
+321,"For the third time, the lack of disabled parking bays ignores residents with permits. The signage must be made clear.",parking_traffic
+6,I have repeatedly raised that the wheelie bin keeps getting missed by the truck. This needs to be fixed urgently.,waste_collection
+416,As a ratepayer I must report that the local playground equipment has not been maintained in months. The park needs regular maintenance.,parks_recreation
+299,I have repeatedly raised that the parking permit system ignores residents with permits. Please cancel the unjust fine.,parking_traffic
+155,"For the third time, a burst pipe on the sidewalk appears discoloured and unsafe. Please send maintenance to repair it.",water_drainage
+169,It is unacceptable that the constant leak near the meter is wasting thousands of litres. The water service must be restored.,water_drainage
+137,I wish to formally report that a burst pipe on the sidewalk is wasting thousands of litres. I demand the leak be stopped.,water_drainage
+229,I am writing to complain that the property rates invoice was estimated incorrectly for months. I want an itemised statement.,billing_rates
+121,"Despite several calls, the damaged kerb on Oak Avenue needs resurfacing immediately. This is a safety risk and must be addressed.",roads_lighting
+197,I wish to formally report that the water billing amount is clearly a billing error. Please correct the account and refund me.,billing_rates
+134,I am extremely frustrated that the contaminated tap water is wasting thousands of litres. The water service must be restored.,water_drainage
+4,I am writing to complain that the garbage bin has been skipped three times this month. I want a refund on the service charge.,waste_collection
+128,I wish to formally report that the faded road markings near the school makes the area dangerous at night. I request urgent road maintenance.,roads_lighting
+166,As a ratepayer I must report that the contaminated tap water is flooding the lower street. Please send maintenance to repair it.,water_drainage
+390,As a ratepayer I must report that the early morning roadworks violates the local noise bylaw. Please enforce the noise regulations.,noise_nuisance
+72,I have repeatedly raised that the faded road markings near the school has caused damage to my car tyre. I request urgent road maintenance.,roads_lighting
+95,As a ratepayer I must report that the damaged kerb on Oak Avenue needs resurfacing immediately. I request urgent road maintenance.,roads_lighting
+49,I have repeatedly raised that the garbage bin was not collected again this week. Please send a crew to empty it.,waste_collection
+206,It is unacceptable that my municipal account doubled without any notice. This dispute needs to be resolved.,billing_rates
+45,"Despite several calls, the wheelie bin smells terrible and was never emptied. This needs to be fixed urgently.",waste_collection
+168,I wish to formally report that the constant leak near the meter is flooding the lower street. This needs immediate attention.,water_drainage
+264,I am extremely frustrated that the confusing parking signs downtown was applied without proper signage. The signage must be made clear.,parking_traffic
+219,I am extremely frustrated that the water billing amount is clearly a billing error. This dispute needs to be resolved.,billing_rates
+208,"Despite several calls, the service fee I was charged was estimated incorrectly for months. This dispute needs to be resolved.",billing_rates
+328,I am writing to complain that the loud parties in the neighbourhood starts before sunrise every day. The bylaw must be enforced.,noise_nuisance
+473,It is unacceptable that the accessibility of the bus stop leaves commuters stranded for hours. Please restore a reliable service.,public_transport
+375,I am extremely frustrated that the early morning roadworks is creating a public health hazard. I want an inspector to investigate.,noise_nuisance
+350,"For the third time, construction noise next door continues well past permitted hours. This nuisance needs to stop.",noise_nuisance
+364,I have repeatedly raised that construction noise next door makes it impossible to sleep. The bylaw must be enforced.,noise_nuisance
+152,"For the third time, the sewage backing up in the drain smells foul and is unsanitary. The water service must be restored.",water_drainage
+173,"For the third time, the water supply to my property smells foul and is unsanitary. The water service must be restored.",water_drainage
+8,"For the third time, the green waste pickup has been skipped three times this month. I want a refund on the service charge.",waste_collection
+369,I am extremely frustrated that construction noise next door has been reported repeatedly with no action. This nuisance needs to stop.,noise_nuisance
+430,It is unacceptable that the public park near the river is broken and unsafe for children. I request restoration of the amenity.,parks_recreation
+332,I wish to formally report that the loud parties in the neighbourhood starts before sunrise every day. I want an inspector to investigate.,noise_nuisance
+235,I am extremely frustrated that the service fee I was charged was estimated incorrectly for months. The overcharge must be reversed.,billing_rates
+84,"Despite several calls, the cracked pavement outside my house floods every time it rains. I request urgent road maintenance.",roads_lighting
+403,"Despite several calls, the local playground equipment lacks basic lighting and security. I request restoration of the amenity.",parks_recreation
+58,I wish to formally report that our recycling collection has been skipped three times this month. I want a refund on the service charge.,waste_collection
+471,I am extremely frustrated that the accessibility of the bus stop is broken and offers no shelter. Commuters need dependable transport.,public_transport
+443,I am extremely frustrated that the walking trail behind the estate lacks basic lighting and security. I request restoration of the amenity.,parks_recreation
+240,"Despite several calls, my municipal account was estimated incorrectly for months. The overcharge must be reversed.",billing_rates
+259,"Despite several calls, the latest utility bill was estimated incorrectly for months. This dispute needs to be resolved.",billing_rates
+69,"For the third time, a deep pothole on Main Road has caused damage to my car tyre. The street lighting should be restored.",roads_lighting
+253,"For the third time, the service fee I was charged is clearly a billing error. This dispute needs to be resolved.",billing_rates
+269,"Despite several calls, an unfair parking fine ignores residents with permits. The signage must be made clear.",parking_traffic
+446,As a ratepayer I must report that the community sports field lacks basic lighting and security. Please repair and clean the facility.,parks_recreation
+329,"For the third time, construction noise next door starts before sunrise every day. I want an inspector to investigate.",noise_nuisance
+233,As a ratepayer I must report that my municipal account contains charges I never incurred. Please correct the account and refund me.,billing_rates
+146,As a ratepayer I must report that the contaminated tap water is wasting thousands of litres. This needs immediate attention.,water_drainage
+172,I am extremely frustrated that a burst pipe on the sidewalk smells foul and is unsanitary. This needs immediate attention.,water_drainage
+55,"For the third time, the wheelie bin was left scattered across the street. The collection schedule must be reliable.",waste_collection
+309,I wish to formally report that the confusing parking signs downtown issued me a penalty I do not deserve. The signage must be made clear.,parking_traffic
+291,I am extremely frustrated that the parking permit system issued me a penalty I do not deserve. I am appealing this penalty.,parking_traffic
+465,I have repeatedly raised that the timetable at the local stop no longer matches the posted schedule. I request an improved timetable.,public_transport
+5,I am writing to complain that the household refuse service has been skipped three times this month. The collection schedule must be reliable.,waste_collection
+376,"For the third time, the early morning roadworks has been reported repeatedly with no action. I want an inspector to investigate.",noise_nuisance
+438,"For the third time, the public park near the river has vandalised and dangerous equipment. I request restoration of the amenity.",parks_recreation
+96,I have repeatedly raised that the broken street light on the corner makes the area dangerous at night. The street lighting should be restored.,roads_lighting
+254,I am writing to complain that the water billing amount is far higher than usual with no explanation. I want an itemised statement.,billing_rates
+204,"Despite several calls, the service fee I was charged is far higher than usual with no explanation. I want an itemised statement.",billing_rates
+19,It is unacceptable that the household refuse service smells terrible and was never emptied. I want a refund on the service charge.,waste_collection
+91,I am writing to complain that the cracked pavement outside my house floods every time it rains. I request urgent road maintenance.,roads_lighting
+214,As a ratepayer I must report that the latest utility bill shows a payment that was never credited. This dispute needs to be resolved.,billing_rates
+90,I am writing to complain that a deep pothole on Main Road has caused damage to my car tyre. I request urgent road maintenance.,roads_lighting
+519,As a ratepayer I must report that the timetable at the local stop is broken and offers no shelter. The schedule must be honoured.,public_transport
+371,"For the third time, the early morning roadworks continues well past permitted hours. The bylaw must be enforced.",noise_nuisance
+274,I have repeatedly raised that the confusing parking signs downtown makes it impossible to park near my home. Residents need fair parking access.,parking_traffic
+119,I am extremely frustrated that the faded road markings near the school has been reported but never repaired. I request urgent road maintenance.,roads_lighting
+448,"For the third time, the walking trail behind the estate lacks basic lighting and security. The park needs regular maintenance.",parks_recreation
+389,It is unacceptable that the illegal dumping on the empty lot is creating a public health hazard. Please enforce the noise regulations.,noise_nuisance
+46,I am extremely frustrated that the household refuse service was left scattered across the street. Please send a crew to empty it.,waste_collection
+31,As a ratepayer I must report that the wheelie bin keeps getting missed by the truck. The collection schedule must be reliable.,waste_collection
+331,I wish to formally report that the loud parties in the neighbourhood starts before sunrise every day. The bylaw must be enforced.,noise_nuisance
+147,It is unacceptable that the low water pressure in the area left us without water all weekend. Please send maintenance to repair it.,water_drainage
+165,I wish to formally report that the low water pressure in the area has been interrupted for several days. The water service must be restored.,water_drainage
+436,"Despite several calls, the local playground equipment has not been maintained in months. I request restoration of the amenity.",parks_recreation
+103,As a ratepayer I must report that the cracked pavement outside my house is a serious trip hazard for pedestrians. Please dispatch a repair team.,roads_lighting
+334,"Despite several calls, construction noise next door makes it impossible to sleep. The bylaw must be enforced.",noise_nuisance
+494,"For the third time, the timetable at the local stop no longer matches the posted schedule. I request an improved timetable.",public_transport
+244,As a ratepayer I must report that the property rates invoice doubled without any notice. Please correct the account and refund me.,billing_rates
+335,"Despite several calls, the loud parties in the neighbourhood violates the local noise bylaw. Please enforce the noise regulations.",noise_nuisance
+513,"For the third time, the frequency of the morning buses leaves commuters stranded for hours. I request an improved timetable.",public_transport
+81,"Despite several calls, the damaged kerb on Oak Avenue needs resurfacing immediately. Please dispatch a repair team.",roads_lighting
+282,It is unacceptable that an unfair parking fine are inconsistent and poorly marked. The signage must be made clear.,parking_traffic
+3,I wish to formally report that the household refuse service was left scattered across the street. Please send a crew to empty it.,waste_collection
+419,I wish to formally report that the local playground equipment has vandalised and dangerous equipment. Please repair and clean the facility.,parks_recreation
+464,"For the third time, the frequency of the morning buses no longer matches the posted schedule. Please restore a reliable service.",public_transport
+478,It is unacceptable that the condition of the bus shelter skips my stop during peak hours. Please restore a reliable service.,public_transport
+405,"Despite several calls, the local playground equipment is covered in litter and overgrown. Families deserve a safe space.",parks_recreation
+507,It is unacceptable that the timetable at the local stop leaves commuters stranded for hours. I request an improved timetable.,public_transport
+368,"For the third time, the illegal dumping on the empty lot violates the local noise bylaw. I want an inspector to investigate.",noise_nuisance
+170,I am extremely frustrated that the constant leak near the meter smells foul and is unsanitary. The water service must be restored.,water_drainage
+212,I am writing to complain that the property rates invoice was estimated incorrectly for months. The overcharge must be reversed.,billing_rates
+52,I am extremely frustrated that our recycling collection keeps getting missed by the truck. I want a refund on the service charge.,waste_collection
+27,As a ratepayer I must report that the household refuse service was left scattered across the street. This needs to be fixed urgently.,waste_collection
+120,I am extremely frustrated that the blocked storm drain on the road makes the area dangerous at night. Please dispatch a repair team.,roads_lighting
+327,I wish to formally report that the constant barking from a property violates the local noise bylaw. This nuisance needs to stop.,noise_nuisance
+466,I am writing to complain that the shuttle to the station leaves commuters stranded for hours. Commuters need dependable transport.,public_transport
+272,As a ratepayer I must report that the new traffic restrictions issued me a penalty I do not deserve. Please cancel the unjust fine.,parking_traffic
+343,I am extremely frustrated that the illegal dumping on the empty lot has been reported repeatedly with no action. This nuisance needs to stop.,noise_nuisance
+26,I have repeatedly raised that the weekly rubbish collection keeps getting missed by the truck. This needs to be fixed urgently.,waste_collection
+125,I am extremely frustrated that the faded road markings near the school needs resurfacing immediately. I request urgent road maintenance.,roads_lighting
+123,I have repeatedly raised that the broken street light on the corner makes the area dangerous at night. Please dispatch a repair team.,roads_lighting
+301,I am writing to complain that the new traffic restrictions makes it impossible to park near my home. I am appealing this penalty.,parking_traffic
+380,I am extremely frustrated that the early morning roadworks starts before sunrise every day. I want an inspector to investigate.,noise_nuisance
+316,I wish to formally report that an unfair parking fine was applied without proper signage. Residents need fair parking access.,parking_traffic
+56,I am writing to complain that the weekly rubbish collection smells terrible and was never emptied. Please send a crew to empty it.,waste_collection
+500,I wish to formally report that the accessibility of the bus stop no longer matches the posted schedule. Commuters need dependable transport.,public_transport
+140,I am extremely frustrated that the constant leak near the meter has been interrupted for several days. I demand the leak be stopped.,water_drainage
+357,I am writing to complain that the loud parties in the neighbourhood makes it impossible to sleep. This nuisance needs to stop.,noise_nuisance
+497,I have repeatedly raised that the timetable at the local stop leaves commuters stranded for hours. Commuters need dependable transport.,public_transport
+139,I wish to formally report that the constant leak near the meter smells foul and is unsanitary. The water service must be restored.,water_drainage
+276,"Despite several calls, the lack of disabled parking bays issued me a penalty I do not deserve. Residents need fair parking access.",parking_traffic
+424,I am writing to complain that the picnic area in the green belt has vandalised and dangerous equipment. Please repair and clean the facility.,parks_recreation
+104,"Despite several calls, the cracked pavement outside my house needs resurfacing immediately. The street lighting should be restored.",roads_lighting
+110,I am writing to complain that the blocked storm drain on the road has been reported but never repaired. Please dispatch a repair team.,roads_lighting
+456,I am extremely frustrated that the frequency of the morning buses is not wheelchair accessible. Please restore a reliable service.,public_transport
+383,"For the third time, construction noise next door violates the local noise bylaw. Please enforce the noise regulations.",noise_nuisance
+132,I am extremely frustrated that a burst pipe on the sidewalk appears discoloured and unsafe. This needs immediate attention.,water_drainage
+336,It is unacceptable that the late-night disturbance from the bar starts before sunrise every day. This nuisance needs to stop.,noise_nuisance
+227,I am extremely frustrated that the electricity charge on my statement is far higher than usual with no explanation. I want an itemised statement.,billing_rates
+178,I have repeatedly raised that the contaminated tap water smells foul and is unsanitary. This needs immediate attention.,water_drainage
+41,I wish to formally report that the weekly rubbish collection was left scattered across the street. Please send a crew to empty it.,waste_collection
+366,I wish to formally report that the late-night disturbance from the bar is creating a public health hazard. This nuisance needs to stop.,noise_nuisance
+450,I am writing to complain that the public park near the river is broken and unsafe for children. The park needs regular maintenance.,parks_recreation
+22,I have repeatedly raised that the garbage bin is overflowing and attracting rats. The collection schedule must be reliable.,waste_collection
+149,I wish to formally report that the contaminated tap water smells foul and is unsanitary. I demand the leak be stopped.,water_drainage
+75,I have repeatedly raised that the cracked pavement outside my house has been reported but never repaired. I request urgent road maintenance.,roads_lighting
+476,"For the third time, the frequency of the morning buses skips my stop during peak hours. Please restore a reliable service.",public_transport
+481,I am writing to complain that the bus service on my route is consistently late or cancelled. Please restore a reliable service.,public_transport
+177,I have repeatedly raised that the contaminated tap water smells foul and is unsanitary. This needs immediate attention.,water_drainage
+420,I have repeatedly raised that the public swimming pool is covered in litter and overgrown. Families deserve a safe space.,parks_recreation
+203,I wish to formally report that the property rates invoice is clearly a billing error. I want an itemised statement.,billing_rates
+195,It is unacceptable that the water supply to my property is flooding the lower street. This needs immediate attention.,water_drainage
+279,"For the third time, the towing of my legally parked car caused me to be fined wrongly. Residents need fair parking access.",parking_traffic
+482,"Despite several calls, the condition of the bus shelter no longer matches the posted schedule. I request an improved timetable.",public_transport
+294,As a ratepayer I must report that the confusing parking signs downtown issued me a penalty I do not deserve. The signage must be made clear.,parking_traffic
+63,As a ratepayer I must report that the wheelie bin was left scattered across the street. I want a refund on the service charge.,waste_collection
+463,"Despite several calls, the timetable at the local stop is broken and offers no shelter. The schedule must be honoured.",public_transport
+141,As a ratepayer I must report that the constant leak near the meter left us without water all weekend. Please send maintenance to repair it.,water_drainage
+479,It is unacceptable that the frequency of the morning buses leaves commuters stranded for hours. The schedule must be honoured.,public_transport
+408,I am writing to complain that the picnic area in the green belt is broken and unsafe for children. I request restoration of the amenity.,parks_recreation
+287,I have repeatedly raised that the lack of disabled parking bays issued me a penalty I do not deserve. Residents need fair parking access.,parking_traffic
+179,I am extremely frustrated that the water supply to my property has been interrupted for several days. The water service must be restored.,water_drainage
+246,As a ratepayer I must report that the service fee I was charged is clearly a billing error. I want an itemised statement.,billing_rates
+163,As a ratepayer I must report that the contaminated tap water is wasting thousands of litres. Please send maintenance to repair it.,water_drainage
+251,"For the third time, the water billing amount is clearly a billing error. This dispute needs to be resolved.",billing_rates
+462,I wish to formally report that the frequency of the morning buses leaves commuters stranded for hours. Commuters need dependable transport.,public_transport
+354,As a ratepayer I must report that construction noise next door has been reported repeatedly with no action. Please enforce the noise regulations.,noise_nuisance
+498,I am writing to complain that the bus service on my route skips my stop during peak hours. I request an improved timetable.,public_transport
+361,I have repeatedly raised that the loud parties in the neighbourhood makes it impossible to sleep. Please enforce the noise regulations.,noise_nuisance
+148,As a ratepayer I must report that the low water pressure in the area left us without water all weekend. Please send maintenance to repair it.,water_drainage
+395,"For the third time, the walking trail behind the estate is covered in litter and overgrown. I request restoration of the amenity.",parks_recreation
+467,I am extremely frustrated that the frequency of the morning buses no longer matches the posted schedule. Please restore a reliable service.,public_transport
+116,It is unacceptable that the damaged kerb on Oak Avenue floods every time it rains. This is a safety risk and must be addressed.,roads_lighting
+153,As a ratepayer I must report that the sewage backing up in the drain has been interrupted for several days. This needs immediate attention.,water_drainage
+286,As a ratepayer I must report that the confusing parking signs downtown was applied without proper signage. Please cancel the unjust fine.,parking_traffic
+143,"Despite several calls, the constant leak near the meter smells foul and is unsanitary. I demand the leak be stopped.",water_drainage
+127,It is unacceptable that the blocked storm drain on the road needs resurfacing immediately. Please dispatch a repair team.,roads_lighting
+99,"Despite several calls, the broken street light on the corner needs resurfacing immediately. Please dispatch a repair team.",roads_lighting
+248,I wish to formally report that the electricity charge on my statement is far higher than usual with no explanation. This dispute needs to be resolved.,billing_rates
+313,I am writing to complain that the lack of disabled parking bays ignores residents with permits. The signage must be made clear.,parking_traffic
+136,I have repeatedly raised that the sewage backing up in the drain is flooding the lower street. The water service must be restored.,water_drainage
+355,"For the third time, the early morning roadworks has been reported repeatedly with no action. This nuisance needs to stop.",noise_nuisance
+412,It is unacceptable that the public park near the river is broken and unsafe for children. Families deserve a safe space.,parks_recreation
+330,It is unacceptable that the illegal dumping on the empty lot has been reported repeatedly with no action. I want an inspector to investigate.,noise_nuisance
+349,I have repeatedly raised that the late-night disturbance from the bar violates the local noise bylaw. The bylaw must be enforced.,noise_nuisance
+370,"Despite several calls, the loud parties in the neighbourhood starts before sunrise every day. Please enforce the noise regulations.",noise_nuisance
+445,I am extremely frustrated that the local playground equipment lacks basic lighting and security. Families deserve a safe space.,parks_recreation
+396,It is unacceptable that the public park near the river is covered in litter and overgrown. The park needs regular maintenance.,parks_recreation
+347,"Despite several calls, construction noise next door makes it impossible to sleep. This nuisance needs to stop.",noise_nuisance
+182,I am extremely frustrated that the low water pressure in the area left us without water all weekend. The water service must be restored.,water_drainage
+280,It is unacceptable that the new traffic restrictions ignores residents with permits. Residents need fair parking access.,parking_traffic
+176,I am writing to complain that the low water pressure in the area is wasting thousands of litres. Please send maintenance to repair it.,water_drainage
+273,I am extremely frustrated that the new traffic restrictions makes it impossible to park near my home. Residents need fair parking access.,parking_traffic
+468,I wish to formally report that the shuttle to the station is not wheelchair accessible. I request an improved timetable.,public_transport
+236,As a ratepayer I must report that the electricity charge on my statement doubled without any notice. I want an itemised statement.,billing_rates
+89,It is unacceptable that the blocked storm drain on the road has been reported but never repaired. The street lighting should be restored.,roads_lighting
+490,"For the third time, the timetable at the local stop is not wheelchair accessible. Please restore a reliable service.",public_transport
+161,It is unacceptable that the sewage backing up in the drain has been interrupted for several days. Please send maintenance to repair it.,water_drainage
+193,I wish to formally report that the water supply to my property left us without water all weekend. The water service must be restored.,water_drainage
+270,I wish to formally report that an unfair parking fine ignores residents with permits. Residents need fair parking access.,parking_traffic
+245,"For the third time, the service fee I was charged doubled without any notice. This dispute needs to be resolved.",billing_rates
+340,It is unacceptable that the loud parties in the neighbourhood violates the local noise bylaw. The bylaw must be enforced.,noise_nuisance
+167,"For the third time, the water supply to my property smells foul and is unsanitary. This needs immediate attention.",water_drainage
+288,I have repeatedly raised that the confusing parking signs downtown issued me a penalty I do not deserve. The signage must be made clear.,parking_traffic
+107,I wish to formally report that the damaged kerb on Oak Avenue has been reported but never repaired. This is a safety risk and must be addressed.,roads_lighting
+266,"Despite several calls, the confusing parking signs downtown caused me to be fined wrongly. I am appealing this penalty.",parking_traffic
+71,It is unacceptable that a deep pothole on Main Road floods every time it rains. Please dispatch a repair team.,roads_lighting
+362,I wish to formally report that the early morning roadworks starts before sunrise every day. I want an inspector to investigate.,noise_nuisance
+32,"Despite several calls, the household refuse service was not collected again this week. Please send a crew to empty it.",waste_collection
+373,"For the third time, the loud parties in the neighbourhood continues well past permitted hours. Please enforce the noise regulations.",noise_nuisance
+377,I am writing to complain that the constant barking from a property continues well past permitted hours. The bylaw must be enforced.,noise_nuisance
+435,"For the third time, the local playground equipment lacks basic lighting and security. Families deserve a safe space.",parks_recreation
+447,I wish to formally report that the public swimming pool lacks basic lighting and security. I request restoration of the amenity.,parks_recreation
+242,"For the third time, the latest utility bill shows a payment that was never credited. This dispute needs to be resolved.",billing_rates
+472,It is unacceptable that the frequency of the morning buses is broken and offers no shelter. The schedule must be honoured.,public_transport
+314,I wish to formally report that the lack of disabled parking bays are inconsistent and poorly marked. The signage must be made clear.,parking_traffic
+397,I am extremely frustrated that the local playground equipment has vandalised and dangerous equipment. Families deserve a safe space.,parks_recreation
+257,I am extremely frustrated that the property rates invoice is clearly a billing error. The overcharge must be reversed.,billing_rates
+421,As a ratepayer I must report that the local playground equipment is closed without any explanation. Families deserve a safe space.,parks_recreation
+209,I wish to formally report that the service fee I was charged contains charges I never incurred. The overcharge must be reversed.,billing_rates
+423,I wish to formally report that the walking trail behind the estate has not been maintained in months. Please repair and clean the facility.,parks_recreation
+156,I am writing to complain that the water supply to my property is wasting thousands of litres. I demand the leak be stopped.,water_drainage
+429,It is unacceptable that the public swimming pool has vandalised and dangerous equipment. I request restoration of the amenity.,parks_recreation
+322,I wish to formally report that the new traffic restrictions ignores residents with permits. Residents need fair parking access.,parking_traffic
+452,It is unacceptable that the public swimming pool has vandalised and dangerous equipment. Families deserve a safe space.,parks_recreation
+20,It is unacceptable that the wheelie bin was left scattered across the street. This needs to be fixed urgently.,waste_collection
+196,I wish to formally report that my municipal account doubled without any notice. This dispute needs to be resolved.,billing_rates

@@ -1,0 +1,32 @@
+Vectorisation comparison
+----------------------------------------
+TF-IDF        : shape (5000, 12512), 99.44% zeros (sparse, one dimension per term).
+LSA / Truncated SVD (100 dims, fallback): shape (5000, 100), dense (continuous semantic dimensions).
+
+TF-IDF is high-dimensional, sparse and directly interpretable per term;
+the dense embedding is compact and groups semantically related wording,
+but its individual dimensions are not human-readable.
+
+LDA topics
+==========
+Topic  1: mortgage, insurance, escrow, information, property, servicing, shellpoint, letter, freedom, letters
+Topic  2: consumer, information, reporting, debt, code, accounts, violation, identity, inaccurate, reports
+Topic  3: wells, fargo, wells fargo, consumer, information, person, agency, shall, title, section
+Topic  4: debt, information, letter, collection, dispute, sent, address, proof, reported, removed
+Topic  5: bank, card, money, called, fraud, did, check, funds, number, phone
+Topic  6: information, financial, reporting, matter, identity, theft, act, accounts, fraudulent, personal
+Topic  7: payment, loan, payments, paid, pay, late, balance, did, called, make
+Topic  8: consumer, reporting, section, information, states, consumer reporting, agency, reporting agency, section states, privacy
+(topic diversity = 0.79)
+
+NMF topics
+==========
+Topic  1: consumer, section, section states, consumer reporting, reporting agency, reporting, states, agency, information, states consumer
+Topic  2: bank, card, money, america, bank america, check, called, funds, number, fraud
+Topic  3: information, identity, theft, identity theft, consumer, accounts, reporting, remove, fraudulent, items
+Topic  4: section, section states, states, reporting, usc, violated rights, usc section, violated, states right, right privacy
+Topic  5: fargo, wells, wells fargo, fargo bank, money, claim, funds, did, called wells, case
+Topic  6: payment, late, payments, loan, mortgage, paid, late payment, balance, pay, month
+Topic  7: letters, response filing, happened mailed, review uploaded, involved review, uploaded letters, filing falsely, reporting misleading, sure happened, continuously far
+Topic  8: debt, collection, validation, fdcpa, collector, debt collector, original, alleged, letter, debt collection
+(topic diversity = 0.89)

@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment (machine-specific, large)
+.venv/
+venv/
+
+# Downloaded data – too large for GitHub (keep only the small sample)
+data/complaints.csv
+data/complaints.json
+
+.DS_Store
