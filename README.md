@@ -1,4 +1,4 @@
-# Municipal Complaints — NLP Topic Extraction
+# Municipal Complaints  NLP Topic Extraction
 
 Extracts the most frequently addressed topics from a collection of unstructured
 complaint texts, so municipal decision-makers can see the most pressing issues
